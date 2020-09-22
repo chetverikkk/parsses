@@ -1,6 +1,6 @@
 from selenium import webdriver
 import time
-link = "https://csgorun.org"
+link = ""
 browser = webdriver.Chrome()
 browser.get(link)
 time.sleep(5)
